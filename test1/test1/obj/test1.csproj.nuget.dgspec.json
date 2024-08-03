@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Documents\\GitHub\\Test\\test1\\test1\\test1.csproj": {}
+    "C:\\Users\\kateodabas\\RiderProjects\\Test\\test1\\test1\\test1.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Documents\\GitHub\\Test\\test1\\test1\\test1.csproj": {
+    "C:\\Users\\kateodabas\\RiderProjects\\Test\\test1\\test1\\test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Documents\\GitHub\\Test\\test1\\test1\\test1.csproj",
+        "projectUniqueName": "C:\\Users\\kateodabas\\RiderProjects\\Test\\test1\\test1\\test1.csproj",
         "projectName": "test1",
-        "projectPath": "C:\\Mac\\Home\\Documents\\GitHub\\Test\\test1\\test1\\test1.csproj",
+        "projectPath": "C:\\Users\\kateodabas\\RiderProjects\\Test\\test1\\test1\\test1.csproj",
         "packagesPath": "C:\\Users\\kateodabas\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Documents\\GitHub\\Test\\test1\\test1\\obj\\",
+        "outputPath": "C:\\Users\\kateodabas\\RiderProjects\\Test\\test1\\test1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
